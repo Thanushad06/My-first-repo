@@ -1,0 +1,4 @@
+Name: D.Thnausha
+Course: BCA
+Thing i learned from github?
+We can easily store files and we can share code with others.
